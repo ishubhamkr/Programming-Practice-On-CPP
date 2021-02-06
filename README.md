@@ -1,2 +1,2 @@
 # ProgrammingCPP
-CPP programs on various topics
+CPP practice questions an solutions
